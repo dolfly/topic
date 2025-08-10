@@ -26,5 +26,3 @@ root@04065eeff138:/# topic
 ## How to build
 
 Run `make build` for linux and amd64. `topic` only support on linux. If you want to run on other architectures, `GOARCH` is need to be set. 
-
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
